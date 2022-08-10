@@ -16,7 +16,7 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 7. Sophia Batchelor
 8. 
 9.
-10. 
+10. Merlijn de Smit
 11.
 12.
 13.
