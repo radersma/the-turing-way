@@ -15,13 +15,13 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 6. Jade Hotchkiss 
 7. Sophia Batchelor
 8. 
-9.
-10. 
-11.
+9. Dan Brady
+10. Merlijn de Smit
+11. Jannetta Steyn
 12. Reinder Radersma
-13.
-14. 
-15. 
+13. Martin Jean
+14. Pascal Flohr
+15. Kelly Barnes 
 16. 
 17. 
 18. 
