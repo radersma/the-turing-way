@@ -17,7 +17,7 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 8. 
 9.
 10. Merlijn de Smit
-11.
+11. Jannetta Steyn
 12.
 13. Martin Jean
 14. Pascal Flohr
