@@ -21,7 +21,7 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 12.
 13. Martin Jean
 14. Pascal Flohr
-15. 
+15. Kelly Barnes 
 16. 
 17. 
 18. 
