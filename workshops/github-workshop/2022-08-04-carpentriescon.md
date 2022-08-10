@@ -13,10 +13,10 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 4. Sara King
 5. Susan Gichuki
 6. Jade Hotchkiss 
-7. 
+7. Sophia Batchelor
 8. 
 9.
-10. 
+10. Merlijn de Smit
 11. Jannetta Steyn
 12.
 13.
