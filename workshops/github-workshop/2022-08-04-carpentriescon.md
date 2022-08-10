@@ -15,7 +15,7 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 6. Jade Hotchkiss 
 7. Sophia Batchelor
 8. 
-9.
+9. Dan Brady
 10. Merlijn de Smit
 11.
 12.
